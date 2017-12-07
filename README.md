@@ -9,6 +9,6 @@ The course assumes some prior experience with programming, as described in more 
 
 The course is divided into three Coursera courses: Part A, Part B, and Part C.  As explained in more detail in the first module of Part A, the overall course is a substantial amount of challenging material, so the three-part format provides two intermediate milestones and opportunities for a pause before continuing.  The three parts are designed to be completed in order and set up to motivate you to continue through to the end of Part C.  The three parts are not quite equal in length: Part A is almost as substantial as Part B and Part C combined.
 
-##Homeworks Status
+## Homeworks Status
 * week 1: 0/100 :(  (Could not compile submission:
 /grader/sml_resources/hw1/Makefile:26: recipe for target 'bin/hw.img' failed)
